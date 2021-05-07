@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am _Wen-Wei Liao_, a PhD student working on the human pangenome project.
+I am _Wen-Wei Liao_, a PhD student working on the human pangenome project.
 
 <!--
 **wwliao/wwliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
