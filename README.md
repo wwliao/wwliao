@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am _Wen-Wei Liao_, a PhD student working on the human pangenome project.
-
+I am Wen-Wei Liao, a PhD student in the lab of Ira Hall. My research interests include variation discovery, genotyping, and association with diseases using population sequencing data.
 <!--
 **wwliao/wwliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
